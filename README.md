@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/OpenNuvoton/NuMaker_UNO/master/package_nuvoton
 
 ## VCOM Driver Installation Steps
 The Virtual COM (VCOM) interface requires a VCOM driver to be installed on PC first. 
-The driver "Nu-Link_USB_Driver 1.x.exe" can be found at: http://www.nuvoton.com/hq/support/tool-and-software/development-tool-hardware/numaker-uno?__locale=zh_TW
+The driver "Nu-Link_USB_Driver 1.x.exe" can be found at: http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=SW0520150729202535
 
 1. Execute "Nu-Link_USB_Driver 1.x.exe" after the USB cable is un-plugged.
 2. Follow the steps of installation wizard to select setup language and installation location.
