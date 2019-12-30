@@ -10,9 +10,9 @@ https://raw.githubusercontent.com/OpenNuvoton/NuMaker_UNO/master/package_nuvoton
 5. You can now select NuMaker UNO in Arduino IDE
 
 ## Compatible Version of Arduino IDE:
-*. 1.8.10
-*. 1.8.8
-*. 1.8.5
+* 1.8.10
+* 1.8.8
+* 1.8.5
 
 ## VCOM Driver Installation Steps
 The Virtual COM (VCOM) interface requires a VCOM driver to be installed on PC first. 
