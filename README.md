@@ -2,13 +2,12 @@
 This repository contains the package descriptor for NuMaker UNO board
 
 ## Board Package Installation Steps
-1. Download Arduino 1.8.5 IDE from https://www.arduino.cc/en/Main/Software
-2. Extract arduino-1.8.5-windows.zip
-3. Double-click arduino.exe, and then go to **File->Preferences**
-4. Paste following URL to 'Additional Boards Manager URLs' input field: 
+1. Download and Install Arduino IDE from https://www.arduino.cc/en/Main/Software
+2. Double-click arduino.exe, and then go to **File->Preferences**
+3. Paste following URL to 'Additional Boards Manager URLs' input field: 
 https://raw.githubusercontent.com/OpenNuvoton/NuMaker_UNO/master/package_nuvoton_index.json
-5. Under **Tools->Board->Boards Manger**, search NuMaker UNO by Nuvoton, click **Install**
-6. You can now select NuMaker UNO in Arduino IDE
+4. Under **Tools->Board->Boards Manger**, search NuMaker UNO by Nuvoton, click **Install**
+5. You can now select NuMaker UNO in Arduino IDE
 
 ## VCOM Driver Installation Steps
 The Virtual COM (VCOM) interface requires a VCOM driver to be installed on PC first. 
