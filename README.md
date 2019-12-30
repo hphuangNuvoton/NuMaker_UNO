@@ -9,11 +9,16 @@ https://raw.githubusercontent.com/OpenNuvoton/NuMaker_UNO/master/package_nuvoton
 4. Under **Tools->Board->Boards Manger**, search NuMaker UNO by Nuvoton, click **Install**
 5. You can now select NuMaker UNO in Arduino IDE
 
+## Compatible Version of Arduino IDE:
+*1.8.10
+*1.8.8
+*1.8.5
+
 ## VCOM Driver Installation Steps
 The Virtual COM (VCOM) interface requires a VCOM driver to be installed on PC first. 
-The driver "Nu-Link_USB_Driver 1.2.exe" can be found at: http://www.nuvoton.com/hq/support/tool-and-software/development-tool-hardware/numaker-uno?__locale=zh_TW
+The driver "Nu-Link_USB_Driver 1.x.exe" can be found at: http://www.nuvoton.com/hq/support/tool-and-software/development-tool-hardware/numaker-uno?__locale=zh_TW
 
-1. Execute "Nu-Link_USB_Driver 1.2.exe" after the USB cable is un-plugged.
+1. Execute "Nu-Link_USB_Driver 1.x.exe" after the USB cable is un-plugged.
 2. Follow the steps of installation wizard to select setup language and installation location.
 3. Plug in USB cable after driver installation complete.
 4. Connect the NuMaker UNO with PC using a USB cable. If the driver is successfully installed, the Windows shall find a new device and then automatically find the correct driver. A virtual COM port named "Nuvoton Virtual Com Port" can be found in "Device Manager".
@@ -45,4 +50,4 @@ trademarks of products and companies mentioned in this datasheet belong to their
 owners.
 
 
-**Copyright (C) 2016 Nuvoton Technology Corp. All rights reserved**
+**Copyright (C) 2019 Nuvoton Technology Corp. All rights reserved**
